@@ -1,0 +1,19 @@
+/* Styles for recipes pages */
+
+body{
+    font-family: Georgia, serif;
+    background-color:#f0ece2;
+}
+
+h1, h2, h3{
+    color: #975a5e;
+}
+
+img{
+    width: 430px;
+    height: auto;
+}
+
+p, li{
+    color: #a45c5c;
+}
